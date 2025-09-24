@@ -1,7 +1,6 @@
 {
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v7.3/.Modules/settings.schema.json",
   "appFolders": ["MyApp"],
-  "type": "PTE",
   "artifact": "OnPrem/24.0/de",
   "signApp": false
 }
